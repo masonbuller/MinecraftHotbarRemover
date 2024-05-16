@@ -1,0 +1,4 @@
+org\maseunknown\plugins\hotbarremover\HotbarRemover.class
+org\maseunknown\plugins\hotbarremover\HotbarRemoverCommand$1.class
+org\maseunknown\plugins\hotbarremover\HotbarRemoverCommand.class
+org\maseunknown\plugins\hotbarremover\HotbarRemoverCompleter.class

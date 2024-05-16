@@ -1,0 +1,8 @@
+name: HotbarRemover
+version: '${project.version}'
+main: org.maseunknown.plugins.hotbarremover.HotbarRemover
+api-version: '1.20'
+commands:
+  hotbarremover:
+    description: start command for all commands
+    usage: /<command>
