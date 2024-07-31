@@ -14,7 +14,7 @@
 <br>
 
 <h2>Available Commands</h2>
-
+  <img src="https://imgur.com/UhWUl8p.png" height=80% width=80% alt="Minecraft hotbar item commands">
 
 <br>
 <h2>Languages Used</h2>
